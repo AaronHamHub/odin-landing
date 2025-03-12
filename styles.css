@@ -58,6 +58,21 @@ body {
     font-weight: 300;
 }
 
+
+
+.info-title {
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 900;
+    text-align: center;
+}
+
+.info-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .quote {
     display: flex;
     flex-direction: column;
