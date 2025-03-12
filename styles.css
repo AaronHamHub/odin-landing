@@ -58,6 +58,10 @@ body {
     font-weight: 300;
 }
 
+.hero {
+    display: flex;
+}
+
 .info {
     text-align: center;
 }
@@ -77,8 +81,8 @@ body {
 }
 
 .info-image {
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     border-radius: 10px;
     border: 2px solid #3882f6;
     margin-bottom: 5px;
