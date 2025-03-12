@@ -58,3 +58,12 @@ body {
     font-size: 18px;
     font-weight: 300;
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    color: #E5E7EB;
+    font-size: 15px;
+}
